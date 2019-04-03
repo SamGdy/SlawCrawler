@@ -1,12 +1,11 @@
 # SlawCrawler
 
-Présentation du projet : le but est de réaliser un jeu de rôle permettent un jeu massivement multijoueur.
+Présentation du projet : le but est de réaliser un jeu de rôle.
 
 Les outils mis en oeuvre :
 * git
 * visual studio
-* mysql
-* apache
+* C sharp
 
 Le développement tourne autour de 3 grandes parties
 1. L'inscription en ligne
